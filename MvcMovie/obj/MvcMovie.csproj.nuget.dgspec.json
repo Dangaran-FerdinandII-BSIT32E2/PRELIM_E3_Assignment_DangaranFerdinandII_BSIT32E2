@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FULLSTACK DEV\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\FULLSTACK DEV\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FULLSTACK DEV\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\FULLSTACK DEV\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Biyong\\.nuget\\packages\\",
-        "outputPath": "D:\\FULLSTACK DEV\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Biyong\\AppData\\Roaming\\NuGet\\NuGet.Config",

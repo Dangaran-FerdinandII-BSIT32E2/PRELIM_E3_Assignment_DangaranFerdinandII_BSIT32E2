@@ -28,3 +28,34 @@ D:\FULLSTACK DEV\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
 D:\FULLSTACK DEV\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 D:\FULLSTACK DEV\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 D:\FULLSTACK DEV\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\appsettings.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\MvcMovie.exe
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\MvcMovie.deps.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\MvcMovie.runtimeconfig.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\bin\Debug\net8.0\MvcMovie.pdb
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcMovie.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll

@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FULLSTACK DEV\\MvcMovie\\",
+  "WorkspaceRootPath": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|d:\\fullstack dev\\mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prelim_e3_assignment_dangaranferdinandii_bsit32e2_bsit32e1\\mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8FE2A8-55B8-4F34-BD97-3D7EE4CA48FA}|MvcMovie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -71,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,63 +84,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAiAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T03:41:32.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswBMAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T02:40:10.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T02:39:58.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T02:39:50.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T02:39:50.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FULLSTACK DEV\\MvcMovie\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\FULLSTACK DEV\\MvcMovie\\Program.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PRELIM_E3_Assignment_DangaranFerdinandII_BSIT32E2_BSIT32E1\\MvcMovie\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

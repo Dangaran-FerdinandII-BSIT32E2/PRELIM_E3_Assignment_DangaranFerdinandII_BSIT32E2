@@ -2,9 +2,6 @@
     ViewData["Title"] = "Home Page";
 }
 
-@using (Html.BeginForm())
-{
-
     <!DOCTYPE html>
     <html>
     <head>
@@ -13,21 +10,31 @@
         <!--Import materialize.css-->
         <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
         <!-- Compiled and minified CSS -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        .card .card-image img {
+            display: block;
+            border-radius: 10px 10px;
+            position: relative;
+            margin: 0 auto;
+            width: 15%;
+        }
+    </style>
 
         <!--Let browser know website is optimized for mobile-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </head>
 
     <body>
-        <div class="card medium">
+    <div class="card medium amber lighten-5">
             <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/images/picture.jpg"/>
             </div>
             <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">Ferdinand Dangaran II<i class="material-icons right">more_vert</i></span>
                 <p><a href="#">Github Repository</a></p>
             </div>
-            <div class="card-reveal">
+            <div class="card-reveal amber lighten-4">
                 <span class="card-title grey-text text-darken-4">Ferdinand Dangaran II<i class="material-icons right">close</i></span>
                 <p>I am an irregular Junior in Lycuem of Alabang Inc. taking Bachelor of Science in Information Technology. I want to pursue the art of Full stack Development and become a Full stack Engineer.</p>
             </div>
@@ -38,4 +45,3 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     </body>
     </html>
-}
